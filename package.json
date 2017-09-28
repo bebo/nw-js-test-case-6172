@@ -1,0 +1,7 @@
+{
+  "name": "test-node-main",
+  "main": "index.html",
+  "dependencies": {
+    "sha3": "^1.2.0"
+  }
+}
